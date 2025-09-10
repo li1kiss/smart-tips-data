@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "title": "Відкладай спочатку, витрачай потім",
-    "body": "Відкладай 10% доходу одразу після зарплати. Маленькі, але регулярні внески створюють подушку."
+    "title": "Save first, spend later",
+    "body": "Put aside 10% of your income right after payday. Small but regular contributions build a financial cushion."
   },
   {
     "id": 2,
-    "title": "Правило 50/30/20",
-    "body": "50% на базові потреби, 30% на бажання, 20% — на заощадження та інвестиції."
+    "title": "The 50/30/20 rule",
+    "body": "50% for basic needs, 30% for wants, 20% for savings and investments."
   },
   {
     "id": 3,
-    "title": "Плануй покупки",
-    "body": "Йди в магазин зі списком і бюджетом. Уникай імпульсивних покупок."
+    "title": "Plan your purchases",
+    "body": "Go shopping with a list and a budget. Avoid impulse buying."
   },
   {
     "id": 4,
-    "title": "Веди облік витрат",
-    "body": "Фіксуй витрати в застосунку. Видимість категорій допомагає скоротити зайві трати."
+    "title": "Track your expenses",
+    "body": "Record your spending in an app. Seeing categories helps cut unnecessary costs."
   },
   {
     "id": 5,
-    "title": "Переглядай підписки",
-    "body": "Раз на місяць переглядай підписки. Вимикай ті, що не використовуєш."
+    "title": "Review subscriptions",
+    "body": "Once a month, review your subscriptions. Cancel those you don’t use."
   },
   {
     "id": 6,
-    "title": "Став фінансові цілі",
-    "body": "Чітка мета (подорож, резервний фонд) підвищує мотивацію відкладати."
+    "title": "Set financial goals",
+    "body": "Clear goals (a trip, an emergency fund) increase motivation to save."
   },
   {
     "id": 7,
-    "title": "Уникай боргів",
-    "body": "Кредитка — лише у крайніх випадках. Відсотки з’їдають бюджет."
+    "title": "Avoid debt",
+    "body": "Use a credit card only in emergencies. Interest quickly eats up your budget."
   },
   {
     "id": 8,
-    "title": "Готуй вдома частіше",
-    "body": "Домашні страви зазвичай дешевші. Плануй меню на тиждень."
+    "title": "Cook at home more often",
+    "body": "Homemade meals are usually cheaper. Plan your menu for the week."
   },
   {
     "id": 9,
-    "title": "Використовуй кешбек та знижки",
-    "body": "Користуйся знижками тільки на заплановані покупки, а не заради знижки."
+    "title": "Use cashback and discounts",
+    "body": "Take advantage of discounts only for planned purchases, not just because of the discount."
   },
   {
     "id": 10,
-    "title": "Будь послідовним",
-    "body": "Заощадження — марафон. Регулярність важливіша за розмір внесків."
+    "title": "Be consistent",
+    "body": "Saving is a marathon. Regularity matters more than the size of the contributions."
   }
 ]
